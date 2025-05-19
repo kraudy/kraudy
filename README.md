@@ -15,7 +15,7 @@
 * [IBM I Pipeline](https://github.com/kraudy/IBM-i-pipeline): A guideline on using a modern IBM I Pipeline
 * [IBM i Talks](https://github.com/kraudy/ibmi_talks): A collection of IBM i talks that I have given.
 * [Mojograd](https://github.com/kraudy/mojo-grad): An autograd engine written in Mojo.
-* [c_stuff](https://github.com/kraudy/c_stuff): Various C projects.
+* [c_stuff](https://github.com/kraudy/c_stuff): Various low level, algorithms and OS related projects.
 * [tinygrad-learn](https://github.com/kraudy/tinygrad-learn): Various ML project.
 
 ### 🌱 Comming soon
