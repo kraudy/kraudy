@@ -12,6 +12,7 @@
 
 ### 🔭 Current Projects
 
+* [IBM I OS](https://github.com/kraudy/ibmi_os): A guideline to the IBM I Operating System.
 * [IBM I Pipeline](https://github.com/kraudy/IBM-i-pipeline): A guideline on using a modern IBM I Pipeline
 * [IBM i Talks](https://github.com/kraudy/ibmi_talks): A collection of IBM i talks that I have given or will be giving.
 * [Mojograd](https://github.com/kraudy/mojo-grad): An autograd engine written in Mojo.
@@ -20,7 +21,6 @@
 
 ### 🌱 Comming soon
 
-* [IBM I OS](): A guideline to the IBM I Operating System.
 * [RPG Languaje](): A guideline to the RPG Languaje.
 * [DB2 Engine](): A guideline to the DB2 SQL Engine.
 * [AIX OS](): A guideline to the AIX Operating System.
