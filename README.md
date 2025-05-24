@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a Software Engineer</h2>
 
-<p align="center"> I develop agile and modern solutions for the financial sector, implementing IBM and open source technology. I'd like to bring AI to the Power Arch.</p>
+<p align="center"> I develop agile and modern solutions for the financial sector, implementing IBM and open source technology. I'd like to bring People, Modernization and AI to the Power.</p>
 
 <p align="center">
   <a href="#">
