@@ -27,14 +27,14 @@
 
 ### 💼 Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="./images/VsCode.svg"/>]()
-[<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="./images/Git.svg"/>]()
-[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/GitHub.svg"/>]()
-[<img align="left" alt="Python" width="26px" style="padding-right:10px;" src="./images/Python.svg"/>]()
-[<img align="left" alt="C" width="30px" style="padding-right:10px;" src="./images/C.svg"/>]()
+[<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="./images/VsCode.svg"/>]()
+[<img align="left" alt="Git" width="32px" style="padding-right:10px;" src="./images/Git.svg"/>]()
+[<img align="left" alt="GitHub" width="32px" style="padding-right:12px;" src="./images/GitHub.svg"/>]()
+[<img align="left" alt="Python" width="32px" style="padding-right:13px;" src="./images/Python.svg"/>]()
+[<img align="left" alt="C" width="30px" style="padding-right:13px;" src="./images/C.svg"/>]()
 [<img align="left" alt="DB2" width="36px" style="padding-right:10px;" src="./images/DB2.svg"/>]()
-[<img align="left" alt="Rpg" width="40px" style="padding-right:10px;" src="./images/rpg.svg"/>]()
-[<img align="left" alt="IBM i" width="40px" style="padding-right:10px;" src="./images/ibmi.svg"/>]()
+[<img align="left" alt="Rpg" width="40px" style="padding-right:5px;" src="./images/rpg.svg"/>]()
+[<img align="left" alt="IBM i" width="40px" style="padding-right:8px;" src="./images/ibmi.svg"/>]()
 [<img align="left" alt="Aix" width="36px" style="padding-right:10px;" src="./images/aix.svg"/>]()
 
 
@@ -42,8 +42,9 @@
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/rtorrezluna/)
-[Email](mailto:robkraudy@gmail.com)
+[<img align="left" alt="Roberto Torrez | LinkedIn" width="30px" style="padding-right:10px;" src="./images/LinkedIn.svg"/>](https://www.linkedin.com/in/rtorrezluna/)
+
+[<img align="left" alt="Roberto Torrez | Gmail" width="29px" style="padding-right:10px;" src="./images/Email.svg"/>](mailto:robkraudy@gmail.com)
 
 <br/>
 
