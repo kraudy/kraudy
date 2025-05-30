@@ -30,10 +30,12 @@
 [<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="./images/VsCode.svg"/>]()
 [<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="./images/Git.svg"/>]()
 [<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/GitHub.svg"/>]()
-[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/Python.svg"/>]()
-[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/C.png"/>]()
-[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/DB2.png"/>]()
-* RPGLE
+[<img align="left" alt="Python" width="26px" style="padding-right:10px;" src="./images/Python.svg"/>]()
+[<img align="left" alt="C" width="26px" style="padding-right:10px;" src="./images/C.png"/>]()
+[<img align="left" alt="DB2" width="26px" style="padding-right:10px;" src="./images/DB2.png"/>]()
+[<img align="left" alt="Rpg" width="26px" style="padding-right:10px;" src="./images/rpg.png"/>]()
+[<img align="left" alt="IBM i" width="26px" style="padding-right:10px;" src="./images/ibmi.png"/>]()
+[<img align="left" alt="Aix" width="26px" style="padding-right:10px;" src="./images/aix.png"/>]()
 
 <br/>
 
