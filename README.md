@@ -27,9 +27,9 @@
 
 ### 💼 Languages and Tools
 
-* Visual Studio Code
-* Git
-* Github
+[<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="./images/VsCode.svg"/>]()
+[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/Git.svg"/>]()
+[<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" src="./images/GitHub.svg"/>]()
 * NodeJs
 * NPM
 * Python
