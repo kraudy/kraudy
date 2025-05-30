@@ -36,6 +36,7 @@
 [<img align="left" alt="Rpg" width="40px" style="padding-right:5px;" src="./images/rpg.svg"/>]()
 [<img align="left" alt="IBM i" width="40px" style="padding-right:8px;" src="./images/ibmi.svg"/>]()
 [<img align="left" alt="Aix" width="36px" style="padding-right:10px;" src="./images/aix.svg"/>]()
+[<img align="left" alt="Linux" width="36px" style="padding-right:10px;" src="./images/Linux.svg"/>]()
 
 
 <br/>
