@@ -12,6 +12,7 @@
 
 ### 🔭 Current Projects
 
+* [SourceMigrator](https://github.com/kraudy/SourceMigrator): Tool for migrating IBM i source physical files (PFs) to IFS stream files.
 * [IBM I OS](https://github.com/kraudy/ibmi_os): A guideline to the IBM I Operating System.
 * [RPG Language](https://github.com/kraudy/rpg_language): A modern guideline to the RPG Language.
 * [IBM I Pipeline](https://github.com/kraudy/IBM-i-pipeline): A modern IBM I Pipeline
